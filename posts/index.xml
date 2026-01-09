@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Michelle Espranita&#39;s Blog</title>
     <link>https://michelleespranita.github.io/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Michelle Espranita&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Jan 2026 10:59:52 +0100</lastBuildDate><atom:link href="https://michelleespranita.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Reflections</title>
-      <link>https://michelleespranita.github.io/posts/post/</link>
+      <title>💌 Reflections of a First-Year PhD Student</title>
+      <link>https://michelleespranita.github.io/posts/first_year_reflections/</link>
       <pubDate>Fri, 09 Jan 2026 10:59:52 +0100</pubDate>
       
-      <guid>https://michelleespranita.github.io/posts/post/</guid>
-      <description>Testinggg the waters</description>
+      <guid>https://michelleespranita.github.io/posts/first_year_reflections/</guid>
+      <description>Doing a PhD was a decision that came naturally to me. I loved gaining more knowledge, and a PhD would give me all the time in the world (okay, about 4 years) to delve into topics that interest me.
+When I think about what it means to be “successful”, I think less about money and more about intellectual development. Also, a PhD was the logical next step in achieving what I had dreamed of since I was in second grade (I wanted to be a professor by day and a princess by night lol).</description>
     </item>
     
   </channel>
