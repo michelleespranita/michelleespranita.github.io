@@ -14,7 +14,7 @@
       
       <guid>https://michelleespranita.github.io/</guid>
       <description>Heylo! I’m Michelle, a first-year PhD student at the Chair for AI in Healthcare and Medicine at the Technical University or Munich, advised by Prof. Daniel Rueckert.
-My research interest lies in developing deep learning-based models to predict clinical outcomes based on echocardiograms and other cardiac modalities like ECG.
+🫀 My research interest lies in developing deep learning-based models to predict clinical outcomes based on echocardiograms and other cardiac modalities like ECG.
 Research interest keywords: Echocardiography, multimodal learning, video understanding</description>
     </item>
     
@@ -33,7 +33,7 @@ Research interest keywords: Echocardiography, multimodal learning, video underst
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://michelleespranita.github.io/blog/</guid>
-      <description>Blogs asdasd</description>
+      <description>Blogs </description>
     </item>
     
     <item>
@@ -42,7 +42,7 @@ Research interest keywords: Echocardiography, multimodal learning, video underst
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://michelleespranita.github.io/publications/</guid>
-      <description>Publications Liman, Michelle E. Liman, Michelle E. </description>
+      <description>Selected Publications Diffusion-based Generative Image Outpainting for Recovery of FOV-Truncated CT Images [📄 Paper] [💻 Code] MICCAI 2024 </description>
     </item>
     
   </channel>
