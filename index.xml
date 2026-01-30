@@ -1,38 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michelle Espranita&#39;s Blog</title>
+    <title>Michelle Espranita Liman</title>
     <link>https://michelleespranita.github.io/</link>
-    <description>Recent content on Michelle Espranita&#39;s Blog</description>
+    <description>Recent content on Michelle Espranita Liman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Jan 2026 10:59:52 +0100</lastBuildDate><atom:link href="https://michelleespranita.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://michelleespranita.github.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelleespranita.github.io/</guid>
+      <description>Heylo! I’m Michelle, a first-year PhD student at the Chair for AI in Healthcare and Medicine at the Technical University or Munich, advised by Prof. Daniel Rueckert.
+My research interest lies in developing deep learning-based models to predict clinical outcomes based on echocardiograms and other cardiac modalities like ECG.
+Research interest keywords: Echocardiography, multimodal learning, video understanding</description>
+    </item>
+    
+    <item>
       <title>💌 Reflections of a First-Year PhD Student</title>
-      <link>https://michelleespranita.github.io/posts/first_year_reflections/</link>
+      <link>https://michelleespranita.github.io/blog/first_year_reflections/</link>
       <pubDate>Fri, 09 Jan 2026 10:59:52 +0100</pubDate>
       
-      <guid>https://michelleespranita.github.io/posts/first_year_reflections/</guid>
-      <description>Doing a PhD was a decision that came naturally to me. I loved gaining more knowledge, and a PhD would give me all the time in the world (okay, about 4 years) to delve into topics that interest me.
-When I think about what it means to be “successful”, I think less about money and more about intellectual development. Also, a PhD was the logical next step in achieving what I had dreamed of since I was in second grade (I wanted to be a professor by day and a princess by night lol).</description>
+      <guid>https://michelleespranita.github.io/blog/first_year_reflections/</guid>
+      <description>Doing a PhD was a decision that came naturally to me. I loved gaining more knowledge, and a PhD would give me all the time in the world (okay, about 4 years) to delve into topics that interest me. Also, a PhD was the logical next step in achieving what I had dreamed of since I was in second grade (I wanted to be a professor by day and a princess by night lol.</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://michelleespranita.github.io/about/</link>
+      <title>Blog</title>
+      <link>https://michelleespranita.github.io/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://michelleespranita.github.io/about/</guid>
-      <description></description>
+      <guid>https://michelleespranita.github.io/blog/</guid>
+      <description>Blogs asdasd</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://michelleespranita.github.io/contact/</link>
+      <title>Publications</title>
+      <link>https://michelleespranita.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://michelleespranita.github.io/contact/</guid>
-      <description></description>
+      <guid>https://michelleespranita.github.io/publications/</guid>
+      <description>Publications Liman, Michelle E. Liman, Michelle E. </description>
     </item>
     
   </channel>
